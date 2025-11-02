@@ -32,6 +32,3 @@ Tracking and loss of Tracking Detection: We had to test many tracking algorithms
 
 
 
-<img width="1280" alt="image" src="https://github.com/clumsyninja3086/PathFinder/assets/34381007/879002a2-7c90-4852-aaf1-32cc78759ce9">
-
-
